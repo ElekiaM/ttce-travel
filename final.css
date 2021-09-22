@@ -1,0 +1,289 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Nunito', sans-serif;
+  position: static;
+}
+.nav2{
+  position:sticky;
+  top: 0;
+  z-index: 1;
+  height:;
+  padding: 0;
+  margin: 0;
+  background-color:#00e1d9;
+}
+.camp{
+  background-color: #b1d188;
+  padding-top: 0px;
+
+}
+.nav-ul{
+  margin:auto;
+  padding: 0px;
+}
+.raha{
+  background-color: #88b0d1;
+}
+.aboutus{
+  background-color: #94435e;
+}
+.aboutttce{
+  background-color: #ebead5;
+}
+
+.callphone{
+  width:50px;
+  height: 50px;
+}
+.staticall{
+  height: 0px;
+  position:absolute;
+
+}
+.txt{
+  text-decoration: underline;
+  margin-top: 50px;
+}
+.ex-img{
+  height: 200px;
+}
+.social img{
+  width: 30px;
+  height: 30px;
+  background-color: cyan;
+}
+h1{
+  text-decoration: underline;
+}
+.logo{
+  height: 100px;
+  width: 100px;
+  margin:0px 0px 20px 0px;
+  padding-bottom: 10px;
+  display: inline-flex;
+  }
+  .maldnav{
+    height: 50px;
+  }
+.honeymoon{
+  padding-top: 50px;
+}
+.trending{
+  padding-top: 50px;
+  background-color: #b1d188;
+
+}
+.offertrend{
+  margin-top: 140px;
+}
+.mara{
+  padding-bottom:50px;
+  background-color: #b1d188;
+  height: 400px;
+}
+.sekenani{
+  background-color: #b1d188;
+
+}
+.elangata{
+  height:180px;
+  width: 300px;
+}
+.mald h3, h4{
+  text-decoration: underline;
+  color:#445594;
+  font-weight: lighter;
+}
+.mald{
+  background-color: #d1c9c9;
+}
+.info{
+  padding-top: 100px;
+  background-color: #b4e1ed;
+  margin-top:0px;
+}
+.carousel{
+  background-color: #acc2e6;
+}
+ h3, h5{
+  color:#f20580;
+}
+.dubaipkg{
+  background-color: #c7f0ee
+}
+.dubaipkg  h4{
+  text-decoration: underline;
+  color: black;
+}
+.about a{
+  color:blue;
+  font-weight: bold;
+  font-size: 1rem;
+
+}
+
+.payment img{
+  width: 100px;
+  display: block;
+}
+.dubai{
+  height: 175px;
+}
+.enquiry{
+  background-color: #faf3e1;
+  margin-top: 145px;
+  padding-top: 20px;
+}
+.enquiry label{
+  color: black;
+  font-weight: bold;
+}
+.enquiry input{
+  background-color:#faf3e1;
+}
+.terms{
+  background-color: #ecedc7;
+  color: black;
+  margin-top: 145px;
+  padding-top: 50px;
+}
+.enquireform{
+  background-color: #faf3e1;
+}
+.paymethods{
+  background-color: #d3edda;
+  margin-top: 145px;
+  padding-top: 50px;
+}
+.paymethods label {
+  color: black;
+}
+.pay-option{
+  background-color: #d6d989;
+}
+.mombasacity{
+  background-color: #ccedda;
+  margin-top: 145px;
+  padding-top: 20px;
+}
+.mauris{
+  background-color:#d5ebed;
+  color:black;
+
+}
+.contact{
+  margin-top: 145px;
+  padding-top: 150px;
+  background-color: #b1d188;
+  color: #d234eb;
+  font-weight: 400;
+}
+.ttce{
+  margin-top: 120px;
+  padding-top: 20px;
+  background-color: #b1d188;
+}
+.ttce2{
+  padding-top: 40px;
+}
+
+.navtest{
+  background-color:#00e1d9;
+
+}
+.badge{
+    background-color: #00e1d9;
+    color:#5e001f;
+
+}
+.copyright{
+background-color:#00e1d9;
+padding-top:100px;
+}
+.acceptpay{
+  background-color: #faf3e1;
+  margin-top: 145px;
+  padding-top: 20px;
+}
+.dub{
+  margin-top: 220px;
+}
+.expo2021{
+  background-color: #8db8f7;
+  padding-top: 100px;
+}
+.dubhead{
+  text-decoration: underline;
+}
+.maldisland{
+  margin-top: 50px;
+}
+.mald-options{
+  padding-top:0px;
+  margin-top:0px;
+}
+.zanzibarDes{
+  background-color: #e9f2cb;
+  padding-top: 100px;
+}
+.mauris-itine{
+  background-color: #ededff;
+}
+.mauris-Overview{
+  margin-top: 180px;
+  margin-left: 60px;
+  padding-top: 150px;
+}
+.mara-details{
+  padding-top: 50px;
+}
+.slide{
+  margin-top: 145px;
+}
+.slide img{
+  height: 800px;
+
+}
+.quick-links a{
+  display: block;
+}
+.quick-links{
+  padding-top: 190px;
+  background-color: #f0a3bc;
+}
+.quick-links h6{
+  color: #9b45b2;
+  text-decoration: underline;
+}
+.carousel-col2{
+  margin: auto 0 auto 0;
+}
+.contact div{
+  padding-bottom: 164px;
+
+}
+.love2{
+  margin-top: 145px;
+  padding-top: 20px;
+}
+.pay-options{
+padding-top: 100px;
+}
+.mba{
+  padding-top: 100px;
+}
+.dubaipavilion img{
+  height: 10px;
+}
+.wasini img{
+  width: 100%;
+  height: 100%;
+}
+.badge-wasini{
+  background-color:#440663;
+
+}
+.wasini-10{
+  background-color: #ebe1f0;
+}
